@@ -1,5 +1,7 @@
 # Bhanu's Blog
 The blog of Migara Bhanu. Powered by web development languages such as HTML and CSS.
+Also the blogger site is available ! 
+https://migarabhanuweragoda.blogspot.com
 
 # Issues 🥵
 Found an issue with the blog. Oh just report it in the Issues section.
