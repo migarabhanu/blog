@@ -1,5 +1,5 @@
 # Bhanu's Blog
-**The official bloggsite of Migara Bhanu.
+**The official blogsite of Migara Bhanu.
 Also the blogger site is available !**
 <br>
 https://migarabhanu.github.io/blog
