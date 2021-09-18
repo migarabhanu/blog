@@ -2,9 +2,6 @@
 **The official bloggsite of Migara Bhanu.
 Also the blogger site is available !**
 <br>
-<br>
-https://migarabhanuweragoda.blogspot.com
-<br>
 https://migarabhanu.github.io/blog
 
 
